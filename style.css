@@ -35,7 +35,12 @@ font-family: Georgia, 'Times New Roman', Times, serif;}
 .about-me{
     background-image: url(fourth.jpg);
     margin-top: 15px;
+    margin-bottom: 15px;
 }
+#menu{color: maroon;
+font-weight: 600;
+font-style: initial;}
+
 
 
 

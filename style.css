@@ -1,5 +1,6 @@
 body{
     font-family: 'Lato', sans-serif; 
+    margin: 0%;
 }
 section{
     display: flex;
@@ -24,3 +25,17 @@ font-family: Georgia, 'Times New Roman', Times, serif;}
     font-weight: 500;
 
 }
+.background-banner{
+    background-image: url(secound.png);
+    background-repeat: no-repeat;
+    padding-left: 10px;
+    
+}
+
+.about-me{
+    background-image: url(fourth.jpg);
+    margin-top: 15px;
+}
+
+
+

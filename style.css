@@ -4,6 +4,7 @@ body{
 }
 .flexible-container{
     display: flex;
+
 }
 .half-width{
     width: 50%;
@@ -37,12 +38,25 @@ font-family: Georgia, 'Times New Roman', Times, serif;}
     margin-top: 15px;
     margin-bottom: 15px;
 }
-#menu{color: maroon;
+#menu{color: rgb(250, 38, 31);
 font-weight: 600;
-font-style: initial;}
+font-style: initial;
+text-align: center;}
 
 .width{ width:100%;}
 .width img{width: 80%;}
+.Anu{padding-left: 10px;}
+.box-shadow{
+    box-shadow: 10px 10px 50px gray;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 10px;
+    border-radius: 10px;
+    padding-left: 30px;
+}
+.text-alaign{ text-align: center;
+font-size: larger;
+background-color: grey;}
 
 
 

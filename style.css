@@ -2,7 +2,7 @@ body{
     font-family: 'Lato', sans-serif; 
     margin: 0%;
 }
-section{
+.flexible-container{
     display: flex;
 }
 .half-width{
@@ -40,6 +40,9 @@ font-family: Georgia, 'Times New Roman', Times, serif;}
 #menu{color: maroon;
 font-weight: 600;
 font-style: initial;}
+
+.width{ width:100%;}
+.width img{width: 80%;}
 
 
 
